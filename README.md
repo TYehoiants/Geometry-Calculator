@@ -5,14 +5,20 @@ A simplest desktop application built with C# and WinForms for calculating the ar
 
 
 ## Features
+
 **Multiple Shapes:** Supports calculations for circles, squares, rectangles, and triangles.
+
 **Real-time Results:** Calculates both Area (Fläche) and Perimeter (Umfang) instantly.
+
 **Input Validation:** Ensures only valid numerical data is processed to prevent application crashes
 
 
 ##  Tech Stack
+
 **Language:** C# 
+
 **Framework:** .NET / WinForms 
+
 **IDE:** Visual Studio
 
 ## 📖 How it Works
